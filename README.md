@@ -1,2 +1,2 @@
 # Financial-Market-News-Sentiment-Analysis
-Financial market news sentiment analysis uses NLP and ML to analyze sentiment in financial news. It helps understand investor sentiment, market trends, and make informed decisions.
+Financial market news sentiment analysis is a technique that involves analyzing the sentiment or emotional tone expressed in news articles and other textual data related to the financial markets. By leveraging natural language processing (NLP) and machine learning algorithms, this analysis aims to understand and quantify the sentiment in the text to gain insights into investor sentiment, market sentiment, and potential market trends.
